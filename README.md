@@ -12,13 +12,14 @@ Feature:
 Dashboard ![Dashboard](https://image.prntscr.com/image/fQguG-P3SJGxSH2Gvxnglw.png)
 Log ![Log](https://image.prntscr.com/image/cS07jXgeTIC9FINCFCpaFQ.png)
 
-HTTP API Documentation:
+__HTTP API Documentation:__
+
 | URL :      | http://ip_address/api/?sec=latestLog&limit=limitShow |
 |------------|------------------------------------------------------|
 | Method :   | GET                                                  |
 | Example :  | http://127.0.0.1/api/?sec=10&limit=5                 |
 |            | Get 5 data in last 10 seconds                        |
-*GET status of service : http://ip_address/api/status/
 
-**WS Access URL : ** http://ip_address/api/status/
+*GET status of service : http://ip_address/api/status/*
 
+__WS Access URL : ws://ip_address/ws/api/__
