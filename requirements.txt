@@ -2,7 +2,7 @@ channels==2.1.7
 channels_redis==2.3.3
 numpy==1.16.0
 requests==2.21.0
-Django==2.1.8
+Django==2.2.13
 pandas==0.24.0
 asgiref==2.3.2
 scikit_learn==0.20.3
