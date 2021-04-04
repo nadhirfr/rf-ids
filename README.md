@@ -2,6 +2,8 @@
 
 This is an Intrution Detection System with Machine Learning Based (Random Forest). This IDS used to detect DDoS Attack in Software-Defined Network with utilizing sFlow-RT (sFlow protocol). The analyze of Machine Learning Model can be found here: https://github.com/nadhirfr/cic-ids-2018
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H146AUD)
+
 Feature:
 - Django Framework
 - API (WebSocket and HTTP)
