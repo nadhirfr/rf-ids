@@ -1,6 +1,6 @@
 channels==2.1.7
 channels_redis==2.3.3
-numpy==1.16.0
+numpy==1.22.0
 requests==2.21.0
 Django==2.1.8
 pandas==0.24.0
